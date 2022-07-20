@@ -1,4 +1,9 @@
-### Hi there 👋
+### ![summer-sea](https://user-images.githubusercontent.com/109642942/179899117-b7aec419-3317-497d-8ad9-2a5aa98a2cb2.gif)
+
+Hiya! Welcome to my GitHub Profile
+
+My name is John and I am currently a data science student at the University of California Santa Barbara.
+
 
 <!--
 **johnnich03/johnnich03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
