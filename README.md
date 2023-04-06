@@ -1,10 +1,9 @@
 <div id = "header" align = "center">
-  <iframe src="https://giphy.com/embed/SUcApSWjPwQMARvcM8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-  <a href="https://giphy.com/stickers/dgitechart-love-it-itechart-SUcApSWjPwQMARvcM8">via GIPHY</a></p>
+  <img src = "https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 </div>
 
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/john-nicholson-077271182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFqJ%2B9rjmRIOwKWRpws4XBw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
