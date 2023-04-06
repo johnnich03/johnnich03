@@ -17,10 +17,6 @@
   </a>
 </div>
 
-<div id = "header" align = "center">
-  <img src = "https://user-images.githubusercontent.com/109642942/179899117-b7aec419-3317-497d-8ad9-2a5aa98a2cb2.gif">
-</div>
-
 ---
 
 ### :man_technologist: About Me :
