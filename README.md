@@ -1,8 +1,40 @@
-### ![summer-sea](https://user-images.githubusercontent.com/109642942/179899117-b7aec419-3317-497d-8ad9-2a5aa98a2cb2.gif)
+<div id = "header" align = "center">
+  <img src = "https://giphy.com/stickers/dgitechart-love-it-itechart-SUcApSWjPwQMARvcM8">
+</div>
 
-Hello! Welcome to my GitHub Profile
 
-My name is John and I am currently a data science student at the University of California Santa Barbara.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/john-nicholson-077271182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFqJ%2B9rjmRIOwKWRpws4XBw%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="INSTAGRAM LINKE HERE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+  <a href="mailto:johnnicholson@ucsb.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+<div id = "header" align = "center">
+  <img src = "https://user-images.githubusercontent.com/109642942/179899117-b7aec419-3317-497d-8ad9-2a5aa98a2cb2.gif">
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+My name is John and I am a data science student at the University of California, Santa Barbara.
+
+- :desktop_computer: Seeking a career in data science or finance
+- :ocean: Nature is my happy place, especially the ocean
+- :weight_lifting_man: Some of my hobbies are surfing, soccer, and the gym
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 
 <!--
